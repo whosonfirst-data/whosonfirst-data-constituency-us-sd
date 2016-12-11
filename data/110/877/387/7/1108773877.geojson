@@ -9,7 +9,7 @@
     "geom:bbox":"-97.40145,42.70415,-96.80542,43.50001",
     "geom:latitude":43.151741,
     "geom:longitude":-97.079178,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2665736899.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 17",
     "uscensus:sldust":"017",
     "uscensus:statefp":"46",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688693
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488181,
     "wof:geomhash":"ef4da684edc9109a998f23faf2559b83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688693
+        }
+    ],
     "wof:id":1108773877,
     "wof:lastmodified":1481488181,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688693,
     "wof:repo":"whosonfirst-data-constituency-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],

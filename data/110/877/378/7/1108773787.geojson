@@ -9,7 +9,7 @@
     "geom:bbox":"-96.71166,43.500313,-96.60127,43.546724",
     "geom:latitude":43.516979,
     "geom:longitude":-96.67474,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":21713555.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 14",
     "uscensus:sldlst":"014",
     "uscensus:statefp":"46",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688693
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488167,
     "wof:geomhash":"fd195324eca2062babdcd80da0b36352",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688693
+        }
+    ],
     "wof:id":1108773787,
     "wof:lastmodified":1481488167,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688693,
     "wof:repo":"whosonfirst-data-constituency-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
